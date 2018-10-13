@@ -1,38 +1,38 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Front-End Software Engineer',
+  siteTitle: 'Prince Odame | Back-End Software Engineer',
   siteDescription:
-    'Design-minded software engineer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
+    'A smart-ass computer engineer, building things to make the world a better place',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
+    'Prince Odame, Prince, Odame, opodame, software engineer, backend, back-end engineer, web developer, python, nodejs, docker, microservices, ghana',
+  siteUrl: 'https://princeodame.com',
   siteLanguage: 'en_US',
   siteImage: 'https://brittanychiang.com/og.png',
 
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
 
-  name: 'Brittany Chiang',
+  name: 'Prince Odame',
   location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
+  email: 'opodame@gmail.com',
   socialMedia: [
     {
       name: 'Github',
-      url: 'https://github.com/bchiang7/',
+      url: 'https://github.com/Odame/',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7/',
+      url: 'https://www.linkedin.com/in/princeodame/',
     },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7/',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7/',
-    },
+    // {
+    //   name: 'Codepen',
+    //   url: 'https://codepen.io/bchiang7/',
+    // },
+    // {
+    //   name: 'Instagram',
+    //   url: 'https://www.instagram.com/bchiang7/',
+    // },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/opodame',
     },
   ],
 
@@ -55,8 +55,8 @@ module.exports = {
     },
   ],
 
-  twitterHandle: '@bchiang7',
-  googleAnalyticsID: 'UA-45666519-2',
+  twitterHandle: '@opodame',
+  googleAnalyticsID: '-1', // todo: Sign up with Google Analytics and get a tracking ID
 
   headerHeight: 100,
 

@@ -13,7 +13,7 @@ const MainContainer = styled(Main)`
   height: 100vh !important;
 `;
 const Title = styled.h1`
-  color: ${theme.colors.green};
+  color: ${theme.colors.blue};
   font-family: ${theme.fonts.SFMono};
   font-size: 20vw;
   line-height: 1;
@@ -39,7 +39,7 @@ const NotFoundPage = () => (
   <Layout>
     <MainContainer id="content">
       <Title>404</Title>
-      <Subtitle>Page Not Found</Subtitle>
+      <Subtitle> &lt;- Page Not Found -&gt; </Subtitle>
       <HomeButton to="/">Go Home</HomeButton>
     </MainContainer>
   </Layout>

@@ -1,8 +1,8 @@
 ---
-title: 'Hi, my name is'
-name: 'Brittany Chiang'
-subtitle: 'I build things for the web.'
+title: 'Hi, I am'
+name: 'Prince Odame'
+subtitle: 'I build things for the world.'
 contactText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Boston, MA specializing in developing (and occasionally designing) exceptional, high-quality websites and applications. Currently working at [Upstatement](https://www.upstatement.com/) as an Engineer, ask me about it!
+A smart software engineer based in Accra, Ghana specializing in development of scalable backend applications. Currently working at [SchoolDesk](https://www.schooldesk.cc/) as an Backend Engineer, ask me about it!
