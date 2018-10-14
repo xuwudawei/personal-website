@@ -16,6 +16,7 @@
     "develop": "gatsby develop",
     "format": "prettier --write 'src/**/*.js'",
     "start": "gatsby develop",
+    "serve": "gatsby serve",
     "precommit": "pretty-quick --staged && lint-staged"
   },
   "lint-staged": {
