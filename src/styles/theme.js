@@ -1,3 +1,5 @@
+const accentColor = '#FF9E64'; // orange
+
 const theme = {
   colors: {
     dark: '#000007',
@@ -18,7 +20,11 @@ const theme = {
     pink: '#FF647F',
     yellow: '#FFC464',
     orange: '#FF9E64',
-    green: '#64ffda',
+    // green: '#64ffda',
+    // todo: Update the name of the color being used
+    green: accentColor, // color has actually been changed to orange.
+    brightBlue: '#03A9F4',
+    lightAmber: '#FFECB3',
     blue: '#71AFFF',
     darkBlue: '#1D7FFC',
     highlight: 'rgba(41, 61, 90, 0.99)',
