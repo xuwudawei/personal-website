@@ -61,12 +61,6 @@ class Loader extends Component {
 
     loader
       .add({
-        targets: '#logo #tag-line',
-        delay: 0,
-        duration: 1,
-        opacity: 0,
-      })
-      .add({
         targets: '#logo #left-outline',
         delay: 500,
         duration: 1500,
@@ -115,7 +109,11 @@ class Loader extends Component {
           <svg id="logo" viewBox="0 0 451 107" version="1.1" xmlns="http://www.w3.org/2000/svg">
             <desc>`Prince Odame - Logo`</desc>
             <g stroke="none" strokeWidth="1" fill="none" fillRule="evenodd">
-              <g id="tag-line" transform="translate(96.000000, 80.000000)" fill="#CCCCCC">
+              <g
+                id="tag-line"
+                transform="translate(96.000000, 80.000000)"
+                fill="#CCCCCC"
+                opacity="0">
                 <text
                   id="engineer"
                   fontFamily="AndaleMono, Andale Mono"
@@ -152,7 +150,7 @@ class Loader extends Component {
               <path
                 d="M243,3.19921875 C281.994194,3.19921875 340.442534,3.19921875 416.660156,3.19921875 C427.163173,4.72870007 430.588365,7.91008992 434.164063,10.7421875 C438.589693,14.9693883 441.556165,18.3779169 443.063477,20.9677734 C444.570788,23.5576299 445.958809,27.5879034 447.227539,33.0585938 C448.271348,39.8607963 448.41607,46.933111 445.445313,54.9414063 C441.557967,62.6263249 436.999441,66.6352425 432.457031,70.7324219 C424.752818,75.7610277 420.835642,75.7516654 416.660156,76.0859375 L99,76.0859375"
                 id="right-outline"
-                stroke="#F5A623"
+                stroke="#ff8300"
                 strokeWidth="5"
               />
             </g>
