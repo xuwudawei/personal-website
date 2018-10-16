@@ -18,7 +18,7 @@
     "start": "gatsby develop",
     "serve": "gatsby serve",
     "precommit": "pretty-quick --staged && lint-staged",
-    "deploy": "build && gh-pages --dist public --repo https://github.com/Odame/Odame.github.io.git --branch master",
+    "deploy": "node ./node_modules/gh-pages/bin/gh-pages-clean.js && gatsby build && gh-pages --dist public --repo https://github.com/Odame/Odame.github.io.git --branch master",
     "clear-gh-pages-cache": "node ./node_modules/gh-pages/bin//gh-pages-clean.js"
   },
   "lint-staged": {
