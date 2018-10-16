@@ -1,12 +1,11 @@
 module.exports = {
   siteTitle: 'Prince Odame | Back-End Software Engineer',
-  siteDescription:
-    'A smart-ass computer engineer, building things to make the world a better place',
+  siteDescription: 'A smart computer engineer, building things to make the world a better place',
   siteKeywords:
     'Prince Odame, Prince, Odame, opodame, software engineer, backend, back-end engineer, web developer, python, nodejs, docker, microservices, ghana',
-  siteUrl: 'https://princeodame.com',
+  siteUrl: 'http://princeodame.com',
   siteLanguage: 'en_US',
-  siteImage: 'https://princeodame.com/og.png',
+  siteImage: 'http://princeodame.com/og.png',
 
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
 
@@ -20,7 +19,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/princeodame/',
+      url: 'https://www.linkedin.com/in/prince-odame/',
     },
     // {
     //   name: 'Codepen',
