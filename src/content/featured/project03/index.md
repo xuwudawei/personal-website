@@ -1,14 +1,16 @@
 ---
 date: '2017-06-01'
-title: 'Personal Website V3'
-cover: './v3.png'
-github: 'https://github.com/bchiang7/v3'
-external: 'https://bchiang7.github.io/v3/'
+title: 'Funny Or Not'
+cover: './funnyornot_cover.jpg'
+github: ''
+external: 'https://play.google.com/store/apps/details?id=com.funnyornot'
 tech:
-  - SCSS
-  - JavaScript
-  - Jekyll
-  - Github Pages
+  - JS
+  - ReactNative
+  - Python
+  - Flask
+  - MySQL
+  - Google Cloud Platform
 ---
 
-Third iteration of my personal website built with Jekyll and hosted on Github Pages. Used by several people as a template for their own personal sites and has gained over 30 stars on Github.
+FunnyOrNot is a joke sharing app. It aims to gather all of the world’s jokes, in whatever format; images, videos, soundbites, and text, into one simple social app

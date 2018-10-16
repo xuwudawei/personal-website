@@ -77,10 +77,10 @@ const Footer = () => (
     </SocialContainer>
     <Copy>
       <GithubLink
-        href="https://github.com/bchiang7/v4"
+        href="https://brittanychiang.com/"
         target="_blank"
         rel="nofollow noopener noreferrer">
-        Designed &amp; Built by Brittany Chiang
+        Forked from Brittany Chiang's project
       </GithubLink>
     </Copy>
   </FooterContainer>

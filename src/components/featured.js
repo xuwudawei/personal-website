@@ -121,7 +121,7 @@ const ImgContainer = styled.div`
   position: relative;
   z-index: 1;
   border-radius: ${theme.borderRadius};
-  background-color: ${theme.colors.green};
+  background-color: ${theme.colors.lightAmber};
   border-radius: 2px;
   grid-column: 6 / -1;
   grid-row: 1 / -1;

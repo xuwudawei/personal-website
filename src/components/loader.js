@@ -63,20 +63,20 @@ class Loader extends Component {
       .add({
         targets: '#logo #left-outline',
         delay: 500,
-        duration: 1500,
+        duration: 750, // initially 1500
         easing: 'easeInOutQuart',
         strokeDashoffset: [anime.setDashoffset, 0],
       })
       .add({
         targets: '#logo #right-outline',
         delay: 0,
-        duration: 1000,
+        duration: 800, // initially 100
         easing: 'easeInOutQuart',
         strokeDashoffset: [anime.setDashoffset, 0],
       })
       .add({
         targets: '#logo #tag-line',
-        duration: 800,
+        duration: 800, // initially 800
         easing: 'easeInOutQuart',
         opacity: 1,
       })
