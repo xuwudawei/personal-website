@@ -24,11 +24,11 @@ module.exports = {
     },
     // {
     //   name: 'Codepen',
-    //   url: 'https://codepen.io/bchiang7/',
+    //   url: 'https://codepen.io/opodame/',
     // },
     // {
     //   name: 'Instagram',
-    //   url: 'https://www.instagram.com/bchiang7/',
+    //   url: 'https://www.instagram.com/opodame/',
     // },
     {
       name: 'Twitter',
