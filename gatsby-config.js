@@ -22,7 +22,7 @@ module.exports = {
         background_color: '#020c1b',
         theme_color: '#0a192f',
         display: 'minimal-ui',
-        icon: 'src/images/logo.png',
+        icon: 'src/images/icon.png',
       },
     },
     `gatsby-plugin-offline`,
