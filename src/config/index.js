@@ -6,7 +6,7 @@ module.exports = {
     'Prince Odame, Prince, Odame, opodame, software engineer, backend, back-end engineer, web developer, python, nodejs, docker, microservices, ghana',
   siteUrl: 'https://princeodame.com',
   siteLanguage: 'en_US',
-  siteImage: 'https://brittanychiang.com/og.png',
+  siteImage: 'https://princeodame.com/og.png',
 
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
 
