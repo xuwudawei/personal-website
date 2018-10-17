@@ -1,13 +1,14 @@
 module.exports = {
   siteTitle: 'Prince Odame | Back-End Software Engineer',
-  siteDescription: 'A smart computer engineer, building things to make the world a better place',
+  siteDescription:
+    'Prince Odame is a smart computer engineer, building things to make the world a better place',
   siteKeywords:
     'Prince Odame, Prince, Odame, opodame, software engineer, backend, back-end engineer, web developer, python, nodejs, docker, microservices, ghana',
-  siteUrl: 'http://princeodame.com',
+  siteUrl: 'https://princeodame.com',
   siteLanguage: 'en_US',
-  siteImage: 'http://princeodame.com/og.png',
+  siteImage: 'https://princeodame.com/og.png',
 
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  googleVerification: '-dUgjmQBI7tQOciwUQ16Q31rC6bPvMShtEKYuckNowQ',
 
   name: 'Prince Odame',
   location: 'Accra, Ghana',
@@ -55,7 +56,7 @@ module.exports = {
   ],
 
   twitterHandle: '@opodame',
-  googleAnalyticsID: '-1', // todo: Sign up with Google Analytics and get a tracking ID
+  googleAnalyticsID: 'UA-127661885-1',
 
   headerHeight: 100,
 
