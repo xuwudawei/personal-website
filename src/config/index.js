@@ -8,7 +8,7 @@ module.exports = {
   siteLanguage: 'en_US',
   siteImage: 'https://princeodame.com/og.png',
 
-  googleVerification: '-dUgjmQBI7tQOciwUQ16Q31rC6bPvMShtEKYuckNowQ',
+  // googleVerification: 'dUgjmQBI7tQOciwUQ16Q31rC6bPvMShtEKYuckNowQ',
 
   name: 'Prince Odame',
   location: 'Accra, Ghana',
