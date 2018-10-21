@@ -7,5 +7,6 @@ range: 'May - Dec 2016'
 url: ''
 ---
 
-- Collaborated with a small team of student designers to spearhead a new brand and design system for Scout’s inaugural student-led design conference at Northeastern
-- Worked closely with designers and management team to develop, document, and manage the conference’s marketing website using Jekyll, Sass, and JavaScript
+- Developed native apps for the android platform.
+- Optimized battery usage of existing apps by leveraging recommended development patterns for the platform.
+- Redesign existing app using [material design](https://material.io/design/) principles.
