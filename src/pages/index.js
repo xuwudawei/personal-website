@@ -60,7 +60,7 @@ export const query = graphql`
             title
             avatar {
               childImageSharp {
-                fluid(maxWidth: 700, quality: 100, traceSVG: { color: "#64ffda" }) {
+                fluid(maxWidth: 700, quality: 90, traceSVG: { color: "#FF9E64" }) {
                   ...GatsbyImageSharpFluid_withWebp_tracedSVG
                 }
               }
@@ -98,7 +98,7 @@ export const query = graphql`
             title
             cover {
               childImageSharp {
-                fluid(maxWidth: 700, quality: 100, traceSVG: { color: "#64ffda" }) {
+                fluid(maxWidth: 700, quality: 90, traceSVG: { color: "#FF9E64" }) {
                   ...GatsbyImageSharpFluid_withWebp_tracedSVG
                 }
               }
