@@ -3,7 +3,7 @@ date: '2014-01-01'
 title: 'Robotics Trainer/Coach'
 company: 'GRAF'
 location: 'Kumasi, Ghana'
-range: 'June 2014 - May 2018'
+range: 'June 2014 - June 2018'
 url: 'https://foundation.ghanarobotics.org/'
 ---
 

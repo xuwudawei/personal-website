@@ -8,5 +8,5 @@ url: ''
 ---
 
 - Developed native apps for the android platform using Java.
-- Optimized battery usage of existing apps by leveraging recommended development patterns for the platform.
+- Reduced battery usage of existing apps by ~35%, by leveraging recommended development patterns for the platform.
 - Redesign existing app using [material design](https://material.io/design/) principles.

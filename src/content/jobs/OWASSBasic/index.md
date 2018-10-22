@@ -3,7 +3,7 @@ date: '2015-05-01'
 title: 'Database Administrator'
 company: 'OWASS Basic'
 location: 'Kumasi, Ghana'
-range: 'May - Present'
+range: 'May 2015 - June 2017'
 url: 'https://www.facebook.com/pages/Owass-Basic/796681950446451'
 ---
 

@@ -8,6 +8,6 @@ url: ''
 ---
 
 - Design structure for backend of several clients applications.
-- Some of these were built in
+- Hands-on experience with a variety of languages/tools/frameworks such as Python, Javascript, Go, Flask, Node, AWS, Google Cloud Platform
 - Write highly comprehensive and maintainable code using TDD, backed with SOLID principles
 - Interfaced with clients on a weekly basis, providing technological expertise using collaborating tools like Slack, Trello
