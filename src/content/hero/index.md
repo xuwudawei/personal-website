@@ -5,4 +5,4 @@ subtitle: 'I build things for the world.'
 contactText: 'Get In Touch'
 ---
 
-A smart software engineer based in Accra, Ghana specialised in development of scalable backend applications. Currently working at [SchoolDesk](https://www.schooldesk.cc/) as a Backend Engineer, ask me about it!
+A smart software engineer based in Odense, Denmark specialised in design & development of scalable cloud-based applications. Currently working at [Blue Ocean Robotics](https://www.blue-ocean-robotics.com/) as a Backend Engineer, ask me about it!
