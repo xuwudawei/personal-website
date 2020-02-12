@@ -4,7 +4,6 @@ avatar: './me.jpg'
 skills:
   - Python
   - NodeJS
-  - Golang
   - GCP
   - AWS
   - Docker
@@ -12,6 +11,7 @@ skills:
   - GraphQL
   - MongoDB
   - MySQL
+  - MQTT
 ---
 
 I'm a software engineer who loves working on challenging problems, cracking them into simpler solutions. I build scalable backend applications, using state of the art technologies with security in mind.
