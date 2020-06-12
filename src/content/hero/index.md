@@ -1,8 +1,8 @@
 ---
 title: 'Hi, I am'
-name: 'Prince Odame'
-subtitle: 'I build things for the world.'
+name: 'Samson Kwaku Nkrumah'
+subtitle: "I a solution to the world's problems"
 contactText: 'Get In Touch'
 ---
 
-A smart software engineer based in Odense, Denmark specialised in design & development of scalable cloud-based applications. Currently working at [Blue Ocean Robotics](https://www.blue-ocean-robotics.com/) as a Backend Engineer, ask me about it!
+A smart software engineer based in India, specialised in design & development of scalable applications. Am Currently working at [Xearth](Xearth.in) as a Full Stack Engineer, ask me about it. I am currently a student in [LPU](https://www.lpu.in/)

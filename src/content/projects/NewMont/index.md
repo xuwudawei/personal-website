@@ -1,12 +1,13 @@
 ---
-date: '2016-11-01'
-title: '3D-DNA-OpenGl'
+date: '2019-05-06'
+title: 'New Mont Simulator'
 image: ''
-github: 'https://github.com/Odame/3D-DNA-OpenGl'
+github: 'https://github.com/Boanerges1996/new-mont-Simulation.git'
 external: ''
 tech:
-  - C++
-  - OpenGL
+  - React Js
+  - Electron Js
+  - MySQL
 show: 'true'
 ---
 

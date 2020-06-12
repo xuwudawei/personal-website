@@ -1,8 +1,8 @@
 ---
-date: '2018-10-20'
+date: '2019-10-20'
 title: 'Personal Website'
 image: ''
-github: 'https://github.com/Odame/personal-website'
+github: 'https://github.com/Boanerges1996/personal-website.git'
 external: 'http://princeodame.com'
 tech:
   - HTML
@@ -10,6 +10,7 @@ tech:
   - JS
   - Gatsby
   - Github Pages
+  - React Js
 show: 'true'
 ---
 

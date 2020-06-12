@@ -1,12 +1,12 @@
-const accentColor = '#FF9E64'; // orange
+// const accentColor = '#FF9E64'; // orange
 
 const theme = {
   colors: {
     dark: '#000007',
     darkestNavy: '#01050b',
-    darkNavy: '#020c1b',
-    navy: '#0a192f',
-    lightNavy: '#172a45',
+    darkNavy: '#311b92',
+    navy: '#512da8',
+    lightNavy: '#512da8',
     darkGrey: '#333f58',
     mediumGrey: '#2d3952',
     blueGrey: '#293d5a',
@@ -22,7 +22,7 @@ const theme = {
     orange: '#FF9E64',
     // green: '#64ffda',
     // todo: Update the name of the color being used
-    green: accentColor, // color has actually been changed to orange.
+    green: '#ff4081', // color has actually been changed to orange.
     brightBlue: '#03A9F4',
     lightAmber: '#FFECB3',
     blue: '#71AFFF',

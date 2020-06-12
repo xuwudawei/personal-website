@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Prince Odame | Back-End Software Engineer',
+  siteTitle: 'Samson Kwaku Nkrumah | Full Stack Software Engineer',
   siteDescription:
     'Prince Odame is a smart computer engineer, building things to make the world a better place',
   siteKeywords:
@@ -10,29 +10,29 @@ module.exports = {
 
   // googleVerification: 'dUgjmQBI7tQOciwUQ16Q31rC6bPvMShtEKYuckNowQ',
 
-  name: 'Prince Odame',
+  name: 'Samson Kwaku Nkrumah',
   location: 'Accra, Ghana',
-  email: 'opodame@gmail.com',
+  email: 'samsonnkrumah253@gmail.com',
   socialMedia: [
     {
       name: 'Github',
-      url: 'https://github.com/Odame/',
+      url: 'https://github.com/Boanerges1996/',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/prince-odame/',
+      url: 'https://www.linkedin.com/in/samson-kwaku-n-a47187104/',
     },
-    // {
-    //   name: 'Codepen',
-    //   url: 'https://codepen.io/opodame/',
-    // },
+    {
+      name: 'Codepen',
+      url: 'https://codepen.io/boanerges1996',
+    },
     // {
     //   name: 'Instagram',
     //   url: 'https://www.instagram.com/opodame/',
     // },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/opodame',
+      url: 'https://twitter.com/samson_nkrumah',
     },
   ],
 
@@ -45,10 +45,10 @@ module.exports = {
       name: 'Experience',
       url: '#jobs',
     },
-    {
-      name: 'Work',
-      url: '#projects',
-    },
+    // {
+    //   name: 'Work',
+    //   url: '#projects',
+    // },
     {
       name: 'Contact',
       url: '#contact',
