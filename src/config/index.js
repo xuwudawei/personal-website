@@ -1,30 +1,30 @@
 module.exports = {
-  siteTitle: 'Samson Kwaku Nkrumah | Full Stack Software Engineer',
+  siteTitle: 'David Osei Opoku | Full Stack Software Engineer',
   siteDescription:
-    'Prince Odame is a smart computer engineer, building things to make the world a better place',
+    'David Osei Opoku is a smart computer engineer, building things to make the world a better place',
   siteKeywords:
-    'Prince Odame, Prince, Odame, opodame, software engineer, backend, back-end engineer, web developer, python, nodejs, docker, microservices, ghana',
+    'David Osei Opoku, David, Osei Opoku, kingdavid, software engineer, backend, back-end engineer, web developer, python, nodejs, docker, microservices, ghana',
   siteUrl: 'https://princeodame.com',
   siteLanguage: 'en_US',
   siteImage: 'https://princeodame.com/og.png',
 
   // googleVerification: 'dUgjmQBI7tQOciwUQ16Q31rC6bPvMShtEKYuckNowQ',
 
-  name: 'Samson Kwaku Nkrumah',
+  name: 'David Osei Opoku',
   location: 'Accra, Ghana',
-  email: 'samsonnkrumah253@gmail.com',
+  email: 'xuwudawei@outlook.com',
   socialMedia: [
     {
       name: 'Github',
-      url: 'https://github.com/Boanerges1996/',
+      url: 'https://github.com/xuwudawei',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/samson-kwaku-n-a47187104/',
+      url: 'https://www.linkedin.com/in/david-osei-opoku-2803a6181/',
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/boanerges1996',
+      url: 'https://codepen.io/xuwudawei',
     },
     // {
     //   name: 'Instagram',
@@ -32,7 +32,7 @@ module.exports = {
     // },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/samson_nkrumah',
+      url: 'https://twitter.com/OPOKUDAVIDOSEI1',
     },
   ],
 
@@ -55,7 +55,7 @@ module.exports = {
     },
   ],
 
-  twitterHandle: '@opodame',
+  twitterHandle: '@OPOKUDAVIDOSEI1',
   googleAnalyticsID: 'UA-127661885-1',
 
   headerHeight: 100,
