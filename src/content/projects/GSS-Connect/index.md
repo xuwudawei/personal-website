@@ -2,7 +2,7 @@
 date: '2020-05-05'
 title: 'GSS-Connect'
 image: ''
-github: 'https://github.com/Boanerges1996/GSS-Connect-Flutter-app.git'
+github: 'https://github.com/xuwudawei/GSS-CONNECT'
 external: ''
 tech:
   - Dart

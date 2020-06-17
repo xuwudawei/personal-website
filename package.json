@@ -1,11 +1,11 @@
 {
-  "name": "samson-kwaku-nkrumah-personal-website",
+  "name": "David-Osei-Opoku-personal-website",
   "description": "Personal Website V4",
   "version": "1.0.0",
-  "author": "Samson Kwaku Nkrumah <samsonnkrumah253@gmail.com",
+  "author": "David Osei Opoku <xuwudawei@outlook.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Boanerges1996/personal-website"
+    "url": "https://github.com/xuwudawei/personal-website"
   },
   "keywords": [
     "gatsby"

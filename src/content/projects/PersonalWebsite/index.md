@@ -2,12 +2,12 @@
 date: '2019-10-20'
 title: 'Personal Website'
 image: ''
-github: 'https://github.com/Boanerges1996/personal-website.git'
+github: 'https://github.com/xuwudawei/personal-website'
 external: 'http://princeodame.com'
 tech:
   - HTML
   - CSS
-  - JS
+  - JavaScript
   - Gatsby
   - Github Pages
   - React Js
