@@ -26,10 +26,10 @@ module.exports = {
       name: 'Codepen',
       url: 'https://codepen.io/xuwudawei',
     },
-    // {
-    //   name: 'Instagram',
-    //   url: 'https://www.instagram.com/opodame/',
-    // },
+    {
+      name: 'Instagram',
+      url: 'https://www.instagram.com/opokudavidosei/',
+    },
     {
       name: 'Twitter',
       url: 'https://twitter.com/OPOKUDAVIDOSEI1',

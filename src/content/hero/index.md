@@ -1,7 +1,7 @@
 ---
 title: 'Hi, I am'
 name: 'David Osei Opoku'
-subtitle: 'I create solutions that solve problems.'
+subtitle: 'I offer solutions that help solve problems.'
 contactText: 'Get In Touch'
 ---
 
