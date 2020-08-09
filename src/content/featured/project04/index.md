@@ -1,7 +1,7 @@
 ---
 date: '2020-06-02'
 title: 'Africoncours'
-cover: './africoncours.png'
+cover: './africoncours.jpg'
 github: 'https://github.com/xuwudawei/Africoncours_App'
 external: 'http://africoncours-client.herokuapp.com'
 tech:

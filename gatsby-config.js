@@ -16,13 +16,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'David Opoku',
-        short_name: 'KingDavid',
+        name: 'prince-odame',
+        short_name: 'opodame',
         start_url: '/',
         background_color: '#020c1b',
         theme_color: '#0a192f',
         display: 'minimal-ui',
-        icon: 'src/images/kingdavid.jpg',
+        icon: 'src/images/icon.png',
       },
     },
     `gatsby-plugin-offline`,
