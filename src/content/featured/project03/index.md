@@ -1,16 +1,12 @@
 ---
 date: '2020-03-12'
-title: 'Dort Blog'
-cover: './dort-blog.png'
-github: ''
-external: 'https://dort-blgo.web.app'
+title: 'Picture Gallery Flutter App'
+cover: './PictureGalleryAppScreenShot.jpeg'
+github: 'https://github.com/xuwudawei/Photo-Gallery-Flutter-App'
+external: ''
 tech:
-  - JS
-  - Python
-  - Node
-  - MongoDb
-  - Express
-  - Socket.io
+  - Dart
+  - Flutter
 ---
 
-Dort Blog is a medium size blogging website for all field of study from Religion, Science, Engineering, Medicine, Archaelogy and many other fields
+A simple flutter that can extract random images from the internet to form your own personal gallery.

@@ -1,15 +1,15 @@
 ---
 date: '2020-06-06'
-title: 'Two Peer Caller'
-cover: './peerCaller.png'
-github: 'https://github.com/Boanerges1996/TwoPeer-Call.git'
-external: 'https://dort-blog.web.app/'
+title: 'Jeremiah Fitness Marketing Website'
+cover: './MarketingScreenschot.png'
+github: 'https://github.com/xuwudawei/King-David'
+external: ''
 tech:
-  - React Js
-  - Node Js
+  - Javascript
+  - Bootstrap
   - Express
-  - WebRtc
-  - simple-peer
+  - HTML/CSS
+  - JQUERY
 ---
 
-A webapp that seek to that seeks to connect two peer throught he use of [WebRTC](https://webrtc.org/) and [simple-peer](https://www.npmjs.com/package/simple-peer) a wrap around WebRTC. Here the calling here is possible through the establishment of a signaling server through the use of OFFER and ANSWERS.
+This marketing website for JEREMIAH FITNESS COMPANY will help the company to attract more customers which provide them instance access to the company workers. It helps them to get registered if they are interested and to select their program of interest. On these responsive web pages there are various section namely Home, About us, Career as well as Contacts. With the help of various technologies including HTML/CSS, JAVASCRIPTS, BOOTSTRAP and JQUERY, the marketing website has been successfully carried out to perform its functions and also to work perfectly on any digital devices.

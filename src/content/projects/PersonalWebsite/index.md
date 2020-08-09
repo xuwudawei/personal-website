@@ -1,9 +1,9 @@
 ---
-date: '2019-10-20'
+date: '2020-05-01'
 title: 'Personal Website'
 image: ''
 github: 'https://github.com/xuwudawei/personal-website'
-external: 'http://princeodame.com'
+external: 'https://kingdavid.me'
 tech:
   - HTML
   - CSS

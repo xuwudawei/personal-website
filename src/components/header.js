@@ -7,7 +7,7 @@ import { Link } from 'gatsby';
 import { throttle } from '../utils';
 
 import { headerHeight } from '../config';
-import resume from '../images/PrinceOdame_Resume.pdf';
+import resume from '../images/DavidResume.pdf';
 
 import Menu from '../components/menu';
 import { IconLogo } from './icons';
